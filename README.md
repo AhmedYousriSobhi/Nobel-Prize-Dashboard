@@ -1,5 +1,5 @@
 # Nobel-Prize-Dashboard
-Plotyl Dashboard for Nobel Prize
+Ploty Dashboard for Nobel Prize Project on Datacamp Data Scientist Track.
 
 ## Question to be answered from Dashboard
 - Is there a relation between Born Rate in each Country and decades ?
